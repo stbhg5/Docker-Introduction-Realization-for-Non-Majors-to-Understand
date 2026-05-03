@@ -17,6 +17,8 @@
     <a href="https://stbhg5.tistory.com/965">컨테이너(Container) 생성 / 실행 - 1</a><br/>
     <a href="https://stbhg5.tistory.com/967">컨테이너(Container) 생성 / 실행 - 2</a><br/>
     <a href="https://stbhg5.tistory.com/969">컨테이너(Container) 조회 / 중지 / 삭제</a><br/>
+    <a href="https://stbhg5.tistory.com/972">컨테이너(Container) 로그 조회</a><br/>
+    <a href="https://stbhg5.tistory.com/973">실행중인 컨테이너 내부에 접속하기 (exec -it)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
