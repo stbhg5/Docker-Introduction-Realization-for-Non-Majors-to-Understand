@@ -19,6 +19,7 @@
     <a href="https://stbhg5.tistory.com/969">컨테이너(Container) 조회 / 중지 / 삭제</a><br/>
     <a href="https://stbhg5.tistory.com/972">컨테이너(Container) 로그 조회</a><br/>
     <a href="https://stbhg5.tistory.com/973">실행중인 컨테이너 내부에 접속하기 (exec -it)</a><br/>
+    <a href="https://stbhg5.tistory.com/976">[실습] Docker 전체 흐름 다시 느껴보기 (Nginx 설치 및 실행)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
