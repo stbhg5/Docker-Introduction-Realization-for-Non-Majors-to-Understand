@@ -25,7 +25,7 @@
 
 <h2>3. 도커 볼륨을 활용해 데이터 유실 방지하기<h2/>
     <a href="https://stbhg5.tistory.com/979">Docker Volume(도커 볼륨)</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/980">[보충 자료] Windows에서 lsof, kill, sudo 명령어가 작동하지 않을 때 대처 방법</a><br/>
     <a href=""></a><br/>
     <br/><br/>
     
