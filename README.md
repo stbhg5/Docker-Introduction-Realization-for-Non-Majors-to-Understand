@@ -30,6 +30,7 @@
     <a href="https://stbhg5.tistory.com/983">[실습] Docker로 MySQL 실행시켜보기 - 2</a><br/>
     <a href="https://stbhg5.tistory.com/985">[실습] Docker로 MySQL 실행시켜보기 - 3</a><br/>
     <a href="https://stbhg5.tistory.com/987">[실습] Docker로 MySQL 실행시켜보기 - 4</a><br/>
+    <a href="https://stbhg5.tistory.com/989">[실습] Docker로 PostgreSQL 실행시켜보기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
     
