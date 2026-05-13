@@ -37,6 +37,8 @@
 <h2>4. Dockerfile 활용해 이미지 직접 만들기<h2/>
     <a href="https://stbhg5.tistory.com/993">Dockerfile이란?</a><br/>
     <a href="https://stbhg5.tistory.com/994">FROM : 베이스 이미지 생성</a><br/>
+    <a href="https://stbhg5.tistory.com/995">[실습] FROM : 베이스 이미지 생성</a><br/>
+    <a href="https://stbhg5.tistory.com/996">종료된 컨테이너에 들어가서 디버깅하고 싶을 때</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
