@@ -39,6 +39,8 @@
     <a href="https://stbhg5.tistory.com/994">FROM : 베이스 이미지 생성</a><br/>
     <a href="https://stbhg5.tistory.com/995">[실습] FROM : 베이스 이미지 생성</a><br/>
     <a href="https://stbhg5.tistory.com/996">종료된 컨테이너에 들어가서 디버깅하고 싶을 때</a><br/>
+    <a href="https://stbhg5.tistory.com/998">COPY 파일 복사(이동)</a><br/>
+    <a href="https://stbhg5.tistory.com/999">ENTRYPOINT : 컨테이너가 시작할 때 실행되는 명령어</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
