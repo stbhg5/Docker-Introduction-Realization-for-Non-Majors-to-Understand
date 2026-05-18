@@ -44,6 +44,7 @@
     <a href="https://stbhg5.tistory.com/1003">[실습] 백엔드 프로젝트(Spring Boot) 프로젝트를 Docker로 실행시키기</a><br/>
     <a href="https://stbhg5.tistory.com/1005">RUN : 이미지를 생성하는 과정에서 사용할 명령문 실행</a><br/>
     <a href="https://stbhg5.tistory.com/1008">WORKDIR : 작업 디렉토리를 지정</a><br/>
+    <a href="https://stbhg5.tistory.com/1010">EXPOSE : 컨테이너 내부에서 사용 중인 포트를 문서화하기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
