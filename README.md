@@ -50,8 +50,8 @@
     <a href="https://stbhg5.tistory.com/1017">[실습] 웹 프론트엔드 프로젝트(HTML, CSS, Nginx)를 Docker로 배포하기</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>5. Docker Compose 를 활용해 컨테이너 관리하기<h2/>
+    <a href="https://stbhg5.tistory.com/1021">Docker Compose를 사용하는 이유</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
