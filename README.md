@@ -54,6 +54,7 @@
     <a href="https://stbhg5.tistory.com/1021">Docker Compose를 사용하는 이유</a><br/>
     <a href="https://stbhg5.tistory.com/1024">[실습] Docker Compose 전체 흐름 느껴보기 (Nginx 설치 및 실행)</a><br/>
     <a href="https://stbhg5.tistory.com/1027">자주 사용하는 Docker Compose CLI 명령어</a><br/>
+    <a href="https://stbhg5.tistory.com/1030">[실습] Docker Compose로 Redis 실행시키기</a><br/>
     <a href=""></a><br/>
     <br/><br/>
     
