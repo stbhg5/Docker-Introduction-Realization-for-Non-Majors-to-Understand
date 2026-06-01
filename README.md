@@ -61,8 +61,8 @@
     <a href="https://stbhg5.tistory.com/1045">[실습] Docker Compose로 프론트엔드(HTML, CSS, Nginx) 실행시키기</a><br/>
     <br/><br/>
     
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>6. Docker Compose를 활용해 2개 이상의 컨테이너 관리하기<h2/>
+    <a href="https://stbhg5.tistory.com/1047">[실습] MySQL, Redis 컨테이너 동시에 띄워보기</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
