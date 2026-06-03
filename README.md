@@ -64,6 +64,7 @@
 <h2>6. Docker Compose를 활용해 2개 이상의 컨테이너 관리하기<h2/>
     <a href="https://stbhg5.tistory.com/1047">[실습] MySQL, Redis 컨테이너 동시에 띄워보기</a><br/>
     <a href="https://stbhg5.tistory.com/1050">[실습] Spring Boot, MySQL 컨테이너 동시에 띄워보기</a><br/>
+    <a href="https://stbhg5.tistory.com/1053">컨테이너로 실행시킨 Spring Boot가 MySQL에 연결이 안 되는 이유</a><br/>
     <a href=""></a><br/>
     <br/><br/>
     
