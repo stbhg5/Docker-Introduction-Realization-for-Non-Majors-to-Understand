@@ -68,8 +68,8 @@
     <a href="https://stbhg5.tistory.com/1056">[실습] Spring Boot, MySQL, Redis 컨테이너 동시에 띄워보기</a><br/>
     <br/><br/>
     
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>7. AWS EC2에서 Docker를 활용해 배포해보기<h2/>
+    <a href="https://stbhg5.tistory.com/1059">Ubuntu에서 Docker, Docker Compose 설치하기</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
