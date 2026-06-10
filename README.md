@@ -73,5 +73,5 @@
     <a href="https://stbhg5.tistory.com/1062">AWS ECR(Elastic Container Registry)이 뭘까? 왜 배울까?</a><br/>
     <a href="https://stbhg5.tistory.com/1067">[실습] AWS ECR(Elastic Container Registry) 사용해보기</a><br/>
     <a href="https://stbhg5.tistory.com/1070">[실습] AWS EC2에 Spring Boot 배포하기</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1074">[실습] AWS EC2에 Spring Boot, MySQL, Redis 배포하기</a><br/>
     <br/><br/>
